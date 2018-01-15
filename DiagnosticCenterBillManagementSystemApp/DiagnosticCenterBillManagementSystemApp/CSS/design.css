@@ -1,0 +1,26 @@
+﻿.modify 
+{    background-color:#06F;
+    display: inline-block;
+    text-decoration: none;
+    text-align:center;
+    width: 100%;
+    padding-left: 2%;
+    padding-right: 5%;
+    font-size:20px;
+    margin: 0px;
+    padding: 0px;
+    border: none;
+    outline: none;
+    font-family: 'Open Sans', sans-serif;}
+
+.ul li { 
+    color:white;  
+    font-size:20px;
+    font-family: 'Open Sans', sans-serif;     
+    text-align:center;
+    text-color:white;
+    box-sizing: border-box;
+			
+}
+	
+	

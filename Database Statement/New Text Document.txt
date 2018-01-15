@@ -1,0 +1,39 @@
+<!--   <!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:Panel ID="Panel1" runat="server" GroupingText="Test Type Setup" Width="600px" Height="240px">
+            <asp:Panel ID="Panel2" runat="server" GroupingText=" " Width="560px" Height="100px">
+                <table>
+                    <tr>
+                        <td>
+                            <asp:Label ID="Label1" runat="server" Text="Type Name"></asp:Label>
+                        </td>
+                        <td>
+                            <asp:TextBox ID="typeNameTextBox" runat="server"></asp:TextBox>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            
+                        </td>
+                        <td>
+                            <asp:Button ID="saveButton" runat="server" Text="Save" OnClick="saveButton_Click" />
+                        </td>
+                    </tr>
+                </table>
+            </asp:Panel>
+            
+            <asp:GridView ID="testTypeGridView" runat="server">
+                
+            </asp:GridView>
+        </asp:Panel>
+    </div>
+    </form>
+</body>
+</html>   -->
